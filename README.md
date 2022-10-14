@@ -53,7 +53,7 @@ I don’t have a clue. Yet.
 ## Tools
  
 * https://deepnote.com/ - to write “Jupyter notebooks” in a Google Docs-like real-time collaboration
-* What else? TBD. Maybe a virtual machine?
+* What else? TBD. Maybe a virtual machine? 
 
 ## References
  
